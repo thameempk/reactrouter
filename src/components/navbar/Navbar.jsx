@@ -14,8 +14,8 @@ function Navbar({sdetails}) {
    <div className='container-fluid'>
     <ul>
         <li><Link to={"/"} className='text'>Home</Link></li>
-        <li onClick={handleTrue}><Link to={"/login"}  className='text' >Login</Link></li>
-        <li onClick={handleTrue}><Link to={"/sign"}  className='text' >Sign</Link></li>
+        <li onClick={handleTrue}><Link to={"/login"}  className='text' >Sign Up</Link></li>
+        <li onClick={handleTrue}><Link to={"/sign"}  className='text' >Sign in</Link></li>
         
     </ul>
    </div>
