@@ -1,0 +1,26 @@
+.container{
+    background-color: black;
+    width: 500px;
+    height: 500px;
+    padding-top: 40px;
+    margin-top: 50px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 800;
+    box-shadow: 5px 5px 15px 20px  teal;
+}
+.container input{
+    margin-top: 30px;
+    height: 30px;
+    width: 270px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.container button{
+    width: 50px;
+    margin-top: 30px ;
+    background-color: blue;
+    border-radius: 20px;
+
+}
